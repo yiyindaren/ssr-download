@@ -25,6 +25,7 @@
     * [ShadowsocksD（待补充）](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/windows/shadowsocksd-dai-bu-chong.md)
     * [Clash（待补充）](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/windows/clash-dai-bu-chong.md)
   * [Android](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/README.md)
+    * [定制小飞机软件](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/ding-zhi-xiao-fei-ji-ruan-jian.md)
     * [JustSSR专版SSR](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/justssr-zhuan-ban-ssr.md)
     * [ShadowsocksD](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/shadowsocksd.md)
   * [IOS](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/ios.md)
