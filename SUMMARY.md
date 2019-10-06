@@ -24,7 +24,6 @@
     * [Clash（待补充）](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/windows/clash-dai-bu-chong.md)
   * [Android](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/README.md)
     * [JustSSR专版SSR](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/justssr-zhuan-ban-ssr.md)
-    * [ShadowsocksD](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/shadowsocksd.md)
   * [IOS](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/ios/README.md)
     * [Shadowrocket](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/ios/shadowrocket.md)
   * [MacOS](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/macos.md)
