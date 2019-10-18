@@ -1,6 +1,6 @@
 # Table of contents
 
-* [某网站用户帮助中心](README.md)
+* [789加速器用户帮助中心](README.md)
 
 ## 软件 \| 下载&使用
 
@@ -8,10 +8,8 @@
   * [Winwodws](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/winwodws/README.md)
     * [SSTap](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/winwodws/sstap.md)
     * [ShadowsocksR](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/winwodws/shadowsocksr.md)
-    * [Clash](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/winwodws/clash.md)
   * [Android](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/android/README.md)
     * [JustSSR专版SSR](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/android/justssr-zhuan-ban-ssr.md)
-    * [ShadowsocksD](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/android/shadowsocksd.md)
   * [IOS](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/ios/README.md)
     * [Quantumult](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/ios/quantumult.md)
     * [Surge](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/ios/surge.md)
@@ -21,7 +19,6 @@
   * [Windows](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/windows/README.md)
     * [SSTap](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/windows/sstap.md)
     * [ShadowsocksR](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/windows/shadowsocksr-dai-bu-chong.md)
-    * [Clash（待补充）](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/windows/clash-dai-bu-chong.md)
   * [Android](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/README.md)
     * [JustSSR专版SSR](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/justssr-zhuan-ban-ssr.md)
   * [IOS](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/ios/README.md)

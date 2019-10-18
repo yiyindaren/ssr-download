@@ -8,7 +8,5 @@ Winwodws 的软件推荐 SSTap ，使用较为简单。
 
 {% page-ref page="shadowsocksr.md" %}
 
-{% page-ref page="clash.md" %}
-
 
 
