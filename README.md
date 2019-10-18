@@ -19,6 +19,7 @@ description: 如果您不是从 JustSSR 站点链接进入，请关闭本站
 3. **墙外≠法外**，请注意自己言行，富强是为了学习而不是让你叛国。
 4. 爱国富强的**前提**是自己要有**独立思考问题的能力**，而不是秀智力。
 5. **任何**问题皆可咨询，但请注意自己的**态度**，因为你们的站长是**权限狗**。
+6. 在提问之前首先点击查看[站长整理的常见问题解答](https://app.gitbook.com/@justssr/s/justssr-com/~/edit/drafts/-LrU_PRllI685JYuWHWv/ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/ni-ke-neng-hui-ti-chu-de-wen-ti)
 
 {% hint style="info" %}
 一些废话，如下：
