@@ -1,6 +1,6 @@
 # Table of contents
 
-* [789加速器用户帮助中心](README.md)
+* [JustSSR用户帮助中心](README.md)
 
 ## 软件 \| 下载&使用
 
