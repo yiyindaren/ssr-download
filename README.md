@@ -1,5 +1,5 @@
 ---
-description: 如果您不是从 789加速器 站点链接进入，请关闭本站
+description: 如果您不是从 JustSSR 站点链接进入，请关闭本站
 ---
 
 # JustSSR用户帮助中心
