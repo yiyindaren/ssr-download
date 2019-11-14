@@ -4,6 +4,8 @@
 
 ## 软件 \| 下载&使用
 
+* [服务条款](ruan-jian-xia-zai-shi-yong/fu-wu-tiao-kuan.md)
+* [可接受使用政策](ruan-jian-xia-zai-shi-yong/ke-jie-shou-shi-yong-zheng-ce.md)
 * [软件下载](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/README.md)
   * [Winwodws](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/winwodws/README.md)
     * [SSTap](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/winwodws/sstap.md)
