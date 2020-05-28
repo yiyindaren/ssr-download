@@ -4,9 +4,9 @@ description: 如果您不是从 JustSSR 站点链接进入，请关闭本站
 
 # JustSSR用户帮助中心
 
-## 亲爱的 [JustSSR](https://www.justssr.club) 用户，欢迎你来到这里
+## 亲爱的 [JustProxy](https://home.subssr.store) 用户，欢迎你来到这里
 
-这里是许多 **JustSSR用户** 的 **第一站！**
+这里是许多 **JustProxy 用户** 的 **第一站！**
 
 你可能需要知道的 **99%** 应该都可以在 **左侧栏目** 找到。
 
