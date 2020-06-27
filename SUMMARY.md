@@ -6,6 +6,10 @@
 
 * [服务条款](ruan-jian-xia-zai-shi-yong/fu-wu-tiao-kuan.md)
 * [可接受使用政策](ruan-jian-xia-zai-shi-yong/ke-jie-shou-shi-yong-zheng-ce.md)
+* [常见问题及简单解答](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/README.md)
+  * [你可能会提出的问题](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/ni-ke-neng-hui-ti-chu-de-wen-ti.md)
+  * [提问的艺术](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/ti-wen-de-yi-shu.md)
+  * [群里提问的艺术](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/qun-li-ti-wen-de-yi-shu.md)
 * [软件下载](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/README.md)
   * [Winwodws](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/winwodws/README.md)
     * [SSTap](ruan-jian-xia-zai-shi-yong/ruan-jian-xia-zai/winwodws/sstap.md)
@@ -26,8 +30,4 @@
   * [IOS](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/ios/README.md)
     * [Shadowrocket](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/ios/shadowrocket.md)
   * [MacOS](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/macos.md)
-* [常见问题及简单解答](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/README.md)
-  * [你可能会提出的问题](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/ni-ke-neng-hui-ti-chu-de-wen-ti.md)
-  * [提问的艺术](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/ti-wen-de-yi-shu.md)
-  * [群里提问的艺术](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/qun-li-ti-wen-de-yi-shu.md)
 
