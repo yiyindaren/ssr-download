@@ -1,8 +1,8 @@
 ---
-description: 如果您不是从 JustSSR 站点链接进入，请关闭本站
+description: 如果您不是从 JustProxy 站点链接进入，请关闭本站
 ---
 
-# JustSSR用户帮助中心
+# JustProxy用户帮助中心
 
 ## 亲爱的 [JustProxy](https://home.subssr.store) 用户，欢迎你来到这里
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JustSSR用户帮助中心](README.md)
+* [JustProxy用户帮助中心](README.md)
 
 ## 软件 \| 下载&使用
 
