@@ -4,7 +4,7 @@
 
 ## 软件 \| 下载&使用
 
-* [服务条款](ruan-jian-xia-zai-shi-yong/fu-wu-tiao-kuan.md)
+* [服务条款（ T O S ）](ruan-jian-xia-zai-shi-yong/fu-wu-tiao-kuan.md)
 * [可接受使用政策](ruan-jian-xia-zai-shi-yong/ke-jie-shou-shi-yong-zheng-ce.md)
 * [常见问题及简单解答](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/README.md)
   * [你可能会提出的问题](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/ni-ke-neng-hui-ti-chu-de-wen-ti.md)
